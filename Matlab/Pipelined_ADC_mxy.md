@@ -323,7 +323,6 @@ pFinite.A0 = A0;
 ---
 
 ## 五、最核心的函数：`mdacStage`
-
 对应第 82～88 行：
 
 ```matlab
